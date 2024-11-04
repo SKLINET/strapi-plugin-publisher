@@ -1,5 +1,5 @@
 {
-    "name": "publisher",
+    "name": "@sklinet/strapi-plugin-publisher",
     "version": "1.0.0",
     "description": "A plugin for Strapi Headless CMS that provides the ability to schedule publishing for any content type.",
     "keywords": [],
