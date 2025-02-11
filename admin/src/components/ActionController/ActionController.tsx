@@ -30,7 +30,7 @@ const ActionController = ({ type, publisher, settings }: Props) => {
             const response = await publisher.getAction({
                 mode: type,
                 entityId: context.id,
-                entitySlug: context.form?.values?.slug || '',
+                entitySlug: context?.slug || '',
             });
 
             setActionEntity(response);
