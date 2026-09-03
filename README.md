@@ -8,9 +8,10 @@ The installation requirements are the same as Strapi itself and can be found in 
 
 ### Supported Strapi versions
 
-- v5.x.x
+- Publisher 1.0.2 supports Strapi 5.0.2 and newer within the v5 release line.
+- The plugin has been verified with Strapi 5.45.1 and 5.52.2.
 
-**NOTE**: While this plugin may work with the older Strapi versions, they are not supported, it is always recommended to use the latest version of Strapi.
+Older Strapi versions, including Strapi 4, are not supported.
 
 ## Installation
 
